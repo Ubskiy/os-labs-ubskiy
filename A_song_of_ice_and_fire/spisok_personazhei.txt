@@ -1,0 +1,9 @@
+Arya_Stark
+Bran_Stark
+Cersei_Lannister
+Daenerys_Targaryen
+Jaime_Lannister
+Jon_Snow
+Sansa_Stark
+spisok_personazhei.txt
+Tyrion_Lannister
