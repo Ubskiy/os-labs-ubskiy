@@ -1,0 +1,293 @@
+BarsukovVV,A-06,3
+BatayevAI,A-06,3
+BelogolovskyAA,A-06,4
+BelousYY,A-06,5
+GalustianAA,A-06,4
+DrozdovSA,A-06,5
+IsmailovTAid,A-06,4
+KorablevNS,A-06,3
+KukushkinAM,A-06,5
+PereskokovDS,A-06,4
+SazonovAD,A-06,3
+SenkovskyaIY,A-06,5
+UbskyAN,A-06,5
+ChesnokovDY,A-06,4
+A-09-22;ZobkovOV;2025-09-22;14;3
+A-09-22;KoshevarovAD;2025-09-22;14;3
+A-09-22;LoykoSI;2025-09-30;20;4
+A-09-22;NaimanAM;2025-09-30;25;5-
+A-09-22;RiabchikovAD;2025-09-30;25;5
+A-09-22;CherniukYS;2025-09-30;19;4
+Ae-21-22;VasilyevPA;2025-09-28;21;4
+Ae-21-22;VlasovAlA;2025-09-19;17;3
+Ae-21-22;GlobusVA;2025-09-28;19;4
+Ae-21-22;ZburivskyKA;2025-09-28;20;4
+Ae-21-22;KocherovaAlA;2025-09-28;25;5
+Ae-21-22;MartsevoyYA;2025-09-28;21;4
+Ae-21-22;ObukhovDmA;2025-09-19;14;3
+Ae-21-22;OsipovMA;2025-09-28;25;5
+Ae-21-22;RomanovDanA;2025-09-28;24;5
+Ae-21-22;RusinAN;2025-09-28;22;4
+Ae-21-22;SavishchenkoVR;2025-09-28;19;4
+Ae-21-22;SipakovVA;2025-09-28;24;5
+Ae-21-22;TatarinovaAA;2025-09-28;20;4
+Ae-21-22;TerekhovSR;2025-09-19;13;3
+Ae-21-22;ChevkinKD;2025-09-28;23;5
+Ae-21-22;ChunayevAM;2025-09-19;15;3
+Ae-21-22;ShamitovaAA;2025-09-28;25;5+
+BarsukovVV,A-06,5
+BatayevAI,A-06,5
+BelogolovskyAA,A-06,4
+BelousYY,A-06,3
+GalustianAA,A-06,4
+DrozdovSA,A-06,4
+IsmailovTAid,A-06,3
+KorablevNS,A-06,3
+KukushkinAM,A-06,4
+PereskokovDS,A-06,4+
+SazonovAD,A-06,3
+SenkovskyaIY,A-06,4
+UbskyAN,A-06,3
+ChesnokovDY,A-06,5
+A-09-22;ZobkovOV;2025-10-11;15;3
+A-09-22;KoshevarovAD;2025-10-20;25;5
+A-09-22;LoykoSI;2025-10-20;18;4
+A-09-22;NaimanAM;2025-10-20;20;4
+A-09-22;RiabchikovAD;2025-10-11;17;3
+A-09-22;CherniukYS;2025-10-20;21;4
+Ae-21-22;VasilyevPA;2025-10-23;25;5
+Ae-21-22;VlasovAlA;2025-10-14;16;3
+Ae-21-22;GlobusVA;2025-10-14;15;3
+Ae-21-22;ZburivskyKA;2025-10-14;13;3
+Ae-21-22;KocherovaAlA;2025-10-14;13;3
+Ae-21-22;MartsevoyYA;2025-10-23;25;5
+Ae-21-22;ObukhovDmA;2025-10-23;19;4
+Ae-21-22;OsipovMA;2025-10-23;18;4
+Ae-21-22;RomanovDanA;2025-10-23;23;5
+Ae-21-22;RusinAN;2025-10-23;25;5
+Ae-21-22;SavishchenkoVR;2025-10-23;23;5
+Ae-21-22;SipakovVA;2025-10-14;13;3
+Ae-21-22;TatarinovaAA;2025-10-23;21;4
+Ae-21-22;ChevkinKD;2025-10-23;22;4
+Ae-21-22;ChunayevAM;2025-10-23;18;4
+Ae-21-22;ShamitovaAA;2025-10-23;25;5
+BarsukovVV,A-06,4
+BatayevAI,A-06,3
+BelogolovskyAA,A-06,3
+BelousYY,A-06,4
+GalustianAA,A-06,4
+DrozdovSA,A-06,3
+IsmailovTAid,A-06,4
+KorablevNS,A-06,4
+KukushkinAM,A-06,5
+PereskokovDS,A-06,3
+SenkovskyaIY,A-06,4+
+UbskyAN,A-06,4
+ChesnokovDY,A-06,4
+A-09-22;ZobkovOV;2025-11-06;25;5
+A-09-22;KoshevarovAD;2025-11-06;24;5
+A-09-22;LoykoSI;2025-10-26;14;3
+A-09-22;NaimanAM;2025-10-26;14;3
+A-09-22;RiabchikovAD;2025-10-26;17;3
+A-09-22;CherniukYS;2025-11-06;24;5
+Ae-21-22;VasilyevPA;2025-10-28;17;3
+Ae-21-22;VlasovAlA;2025-10-28;13;3
+Ae-21-22;GlobusVA;2025-11-07;18;4
+Ae-21-22;ZburivskyKA;2025-11-07;20;4
+Ae-21-22;KocherovaAlA;2025-10-28;13;3
+Ae-21-22;MartsevoyYA;2025-11-07;21;4
+Ae-21-22;ObukhovDmA;2025-11-07;18;4
+Ae-21-22;OsipovMA;2025-11-07;24;5
+Ae-21-22;RomanovDanA;2025-10-28;15;3
+Ae-21-22;RusinAN;2025-11-07;20;4
+Ae-21-22;SavishchenkoVR;2025-11-07;23;5
+Ae-21-22;SipakovVA;2025-10-28;13;3
+Ae-21-22;TatarinovaAA;2025-10-28;14;3
+Ae-21-22;TerekhovSR;2025-10-28;15;3
+Ae-21-22;ChevkinKD;2025-11-07;19;4-
+Ae-21-22;ChunayevAM;2025-11-07;21;4
+Ae-21-22;ShamitovaAA;2025-11-07;23;5
+BarsukovVV,A-06,4
+BatayevAI,A-06,4
+BelogolovskyAA,A-06,3
+BelousYY,A-06,5
+GalustianAA,A-06,3
+DrozdovSA,A-06,4
+IsmailovTAid,A-06,4
+KorablevNS,A-06,5
+KukushkinAM,A-06,5
+PereskokovDS,A-06,3
+SenkovskyaIY,A-06,3
+UbskyAN,A-06,3
+ChesnokovDY,A-06,5
+A-09-22;ZobkovOV;2025-11-12;15;3
+A-09-22;KoshevarovAD;2025-11-27;24;5
+A-09-22;LoykoSI;2025-11-27;18;4
+A-09-22;NaimanAM;2025-11-27;21;4
+A-09-22;RiabchikovAD;2025-11-12;14;3
+A-09-22;CherniukYS;2025-11-27;23;5
+Ae-21-22;VasilyevPA;2025-11-24;13;3
+Ae-21-22;VlasovAlA;2025-12-03;25;5
+Ae-21-22;GlobusVA;2025-12-03;22;4
+Ae-21-22;ZburivskyKA;2025-12-03;20;4
+Ae-21-22;KocherovaAlA;2025-12-03;21;4
+Ae-21-22;MartsevoyYA;2025-12-03;25;5
+Ae-21-22;ObukhovDmA;2025-11-24;17;3
+Ae-21-22;OsipovMA;2025-12-03;21;4
+Ae-21-22;RomanovDanA;2025-12-03;25;5
+Ae-21-22;RusinAN;2025-12-03;23;5
+Ae-21-22;SavishchenkoVR;2025-12-03;18;4
+Ae-21-22;SipakovVA;2025-11-24;17;3-
+Ae-21-22;TatarinovaAA;2025-11-24;17;3
+Ae-21-22;ChevkinKD;2025-12-03;19;4
+Ae-21-22;ChunayevAM;2025-11-24;16;3
+Ae-21-22;ShamitovaAA;2025-12-03;20;4
+BarsukovVV,A-06,3
+BatayevAI,A-06,4
+BelogolovskyAA,A-06,3
+BelousYY,A-06,4
+GalustianAA,A-06,4
+DrozdovSA,A-06,5
+IsmailovTAid,A-06,5
+KorablevNS,A-06,3
+KukushkinAM,A-06,3
+PereskokovDS,A-06,4
+SazonovAD,A-06,5
+SenkovskyaIY,A-06,4
+UbskyAN,A-06,4
+ChesnokovDY,A-06,3
+A-09-22;ZobkovOV;2025 September;5;5
+A-09-22;KoshevarovAD;2025 September;5;5
+A-09-22;LoykoSI;2025 September;3;3
+A-09-22;NaimanAM;2025 September;3;3
+A-09-22;RiabchikovAD;2025 September;4;4
+A-09-22;CherniukYS;2025 September;3;3
+Ae-21-22;VasilyevPA;2025 September;5;5
+Ae-21-22;VlasovAlA;2025 September;5;5
+Ae-21-22;GlobusVA;2025 September;3;3
+Ae-21-22;ZburivskyKA;2025 September;4;4
+Ae-21-22;KocherovaAlA;2025 September;5;5
+Ae-21-22;MartsevoyYA;2025 September;4;4
+Ae-21-22;ObukhovDmA;2025 September;5;5
+Ae-21-22;OsipovMA;2025 September;5;5
+Ae-21-22;RomanovDanA;2025 September;3;3
+Ae-21-22;RusinAN;2025 September;3;3
+Ae-21-22;SavishchenkoVR;2025 September;5;5
+Ae-21-22;SipakovVA;2025 September;3;3
+Ae-21-22;TatarinovaAA;2025 September;5;5
+Ae-21-22;TerekhovSR;2025 September;4;4
+Ae-21-22;ChevkinKD;2025 September;5;5
+Ae-21-22;ChunayevAM;2025 September;4;4
+Ae-21-22;ShamitovaAA;2025 September;4;4
+BarsukovVV,A-06,3
+BatayevAI,A-06,4
+BelogolovskyAA,A-06,4
+BelousYY,A-06,4
+GalustianAA,A-06,5
+DrozdovSA,A-06,5
+IsmailovTAid,A-06,4
+KorablevNS,A-06,3
+KukushkinAM,A-06,5
+PereskokovDS,A-06,5
+SazonovAD,A-06,3
+SenkovskyaIY,A-06,3
+UbskyAN,A-06,5
+ChesnokovDY,A-06,3
+A-09-22;ZobkovOV;2025 October;4;4
+A-09-22;KoshevarovAD;2025 October;3;3
+A-09-22;LoykoSI;2025 October;5;5
+A-09-22;NaimanAM;2025 October;4;4
+A-09-22;RiabchikovAD;2025 October;5;5
+A-09-22;CherniukYS;2025 October;5;5
+Ae-21-22;VasilyevPA;2025 October;3;3
+Ae-21-22;VlasovAlA;2025 October;4;4
+Ae-21-22;GlobusVA;2025 October;4;4
+Ae-21-22;ZburivskyKA;2025 October;5;5
+Ae-21-22;KocherovaAlA;2025 October;5;5
+Ae-21-22;MartsevoyYA;2025 October;4;4
+Ae-21-22;ObukhovDmA;2025 October;5;5
+Ae-21-22;OsipovMA;2025 October;5;5
+Ae-21-22;RomanovDanA;2025 October;5;5
+Ae-21-22;RusinAN;2025 October;5;5
+Ae-21-22;SavishchenkoVR;2025 October;5;5
+Ae-21-22;SipakovVA;2025 October;4;4
+Ae-21-22;TatarinovaAA;2025 October;3;3
+Ae-21-22;TerekhovSR;2025 October;3;3
+Ae-21-22;ChevkinKD;2025 October;4;4
+Ae-21-22;ChunayevAM;2025 October;4;4
+Ae-21-22;ShamitovaAA;2025 October;3;3
+BarsukovVV,A-06,3
+BatayevAI,A-06,3
+BelogolovskyAA,A-06,5
+BelousYY,A-06,3
+GalustianAA,A-06,3
+DrozdovSA,A-06,3
+IsmailovTAid,A-06,5
+KorablevNS,A-06,5
+KukushkinAM,A-06,5
+PereskokovDS,A-06,3
+SazonovAD,A-06,4
+SenkovskyaIY,A-06,4
+UbskyAN,A-06,3
+ChesnokovDY,A-06,4
+A-09-22;ZobkovOV;2025 November;3;3
+A-09-22;KoshevarovAD;2025 November;5;5
+A-09-22;LoykoSI;2025 November;3;3
+A-09-22;NaimanAM;2025 November;5;5
+A-09-22;RiabchikovAD;2025 November;3;3
+A-09-22;CherniukYS;2025 November;3;3
+Ae-21-22;VasilyevPA;2025 November;5;5
+Ae-21-22;VlasovAlA;2025 November;5;5
+Ae-21-22;GlobusVA;2025 November;3;3
+Ae-21-22;ZburivskyKA;2025 November;5;5
+Ae-21-22;KocherovaAlA;2025 November;4;4
+Ae-21-22;MartsevoyYA;2025 November;3;3
+Ae-21-22;ObukhovDmA;2025 November;4;4
+Ae-21-22;OsipovMA;2025 November;4;4
+Ae-21-22;RomanovDanA;2025 November;4;4
+Ae-21-22;RusinAN;2025 November;5;5
+Ae-21-22;SavishchenkoVR;2025 November;5;5
+Ae-21-22;SipakovVA;2025 November;5;5
+Ae-21-22;TatarinovaAA;2025 November;3;3
+Ae-21-22;TerekhovSR;2025 November;5;5
+Ae-21-22;ChevkinKD;2025 November;3;3
+Ae-21-22;ChunayevAM;2025 November;4;4
+Ae-21-22;ShamitovaAA;2025 November;5;5
+BarsukovVV,A-06,5
+BatayevAI,A-06,4
+BelogolovskyAA,A-06,3
+BelousYY,A-06,3
+GalustianAA,A-06,4
+DrozdovSA,A-06,4
+IsmailovTAid,A-06,5
+KorablevNS,A-06,3
+KukushkinAM,A-06,5
+SazonovAD,A-06,4
+SenkovskyaIY,A-06,3
+UbskyAN,A-06,3
+ChesnokovDY,A-06,3
+A-09-22;ZobkovOV;2025 December;4;4
+A-09-22;LoykoSI;2025 December;5;5
+A-09-22;NaimanAM;2025 December;3;3
+A-09-22;RiabchikovAD;2025 December;4;4
+A-09-22;CherniukYS;2025 December;4;4
+Ae-21-22;VasilyevPA;2025 December;5;5
+Ae-21-22;VlasovAlA;2025 December;5;5
+Ae-21-22;GlobusVA;2025 December;3;3
+Ae-21-22;ZburivskyKA;2025 December;4;4
+Ae-21-22;KocherovaAlA;2025 December;3;3
+Ae-21-22;MartsevoyYA;2025 December;5;5
+Ae-21-22;ObukhovDmA;2025 December;4;4
+Ae-21-22;OsipovMA;2025 December;5;5
+Ae-21-22;RomanovDanA;2025 December;3;3
+Ae-21-22;RusinAN;2025 December;3;3
+Ae-21-22;SavishchenkoVR;2025 December;4;4
+Ae-21-22;SipakovVA;2025 December;5;5
+Ae-21-22;TatarinovaAA;2025 December;4;4
+Ae-21-22;TerekhovSR;2025 December;5;5
+Ae-21-22;ChevkinKD;2025 December;4;4
+Ae-21-22;ChunayevAM;2025 December;4;4
+Ae-21-22;ShamitovaAA;2025 December;3;3
+
+Общее количество идеальных попыток в группе A-06 за все время:
+     736
